@@ -1,0 +1,15 @@
+.jumbotron {
+    background-image: url("../images/Streptococcus.jpg");
+    background-size: cover;
+}
+.jumbotron h1{
+    color: #ffffff;
+}
+
+.jumbotron p{
+    color: #ffffff;
+}
+
+/*.body {
+    background: #1515bb !important;
+}*/
